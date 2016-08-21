@@ -1,0 +1,22 @@
+{
+  "name": "shopicruit",
+  "version": "1.0.0",
+  "description": "script to pull down products from their API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TR Stephen",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.13.1",
+    "lodash": "^4.15.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.3.1",
+    "eslint-config-airbnb-base": "^5.0.2",
+    "eslint-plugin-import": "^1.13.0",
+    "eslint-plugin-lodash": "^1.10.1"
+  },
+  "private": true
+}
