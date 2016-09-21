@@ -45,4 +45,4 @@ getProductTypesVariants(TARGET_PRODUCT_TYPES)
     console.log(`Searched for: ${TARGET_PRODUCT_TYPES}`);
     console.log(`Found ${_.size(variants)} variants totaling $${totalCost.toFixed(2)}`);
   })
-  .catch(err => console.error(err));
+  .catch(console.error);

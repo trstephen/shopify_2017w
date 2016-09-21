@@ -27,11 +27,3 @@ node index.js
 ### Dev notes
 Are [here](./docs/dev_notes.md).
 It's a documentation of my approach to this problem.
-
-### A warning
-I'm not sure I'll be able to apply for this position.
-This solution might not even be submitted.
-You, curious github user, could probably submit this and get away with it.
-
-But I might submit it.
-Then things would be awkward.
